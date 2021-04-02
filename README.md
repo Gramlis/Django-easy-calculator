@@ -3,13 +3,16 @@ I made my first django app. It's very basic calculator. I hope i will help someo
 
 Files:
 
+
 There is ulrs.py redirecting you to functions. 
 
 views.py include every function. 
 
 calc.html and result.html is templates for this app. 
 
+
 Function explain:
+
 
 Using float instead of int because numbers like 1.3 or 10e4.
 
